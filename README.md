@@ -10,19 +10,19 @@ Postgre SQL was used via the pgAdmin 4 app for all data analysis. Excel was used
 ## Data
 All data was supplied by CareerFoundry as part of an assignment for its Data Analysis course. The following tables were included in the dataset:
 
-Customer
-Store
-Film Category
-Film actor
-Rentals
-Staff
-Payment
-Address
-City
-Country
-Actor
-Film
-Inventory
-Category
-Language
+-Customer
+-Store
+-Film Category
+-Film actor
+-Rentals
+-Staff
+-Payment
+-Address
+-City
+-Country
+-Actor
+-Film
+-Inventory
+-Category
+-Language
 Full Data Set: 
