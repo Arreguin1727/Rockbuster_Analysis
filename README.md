@@ -8,4 +8,4 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 Postgre SQL was used via the pgAdmin 4 app for all data analysis. Excel was used to present sql outputs and queries to technical colleagues. Google Sheets was used to create a data dictionary. Powerpoint was used to create a final presentation for the Rockbuster business managers.
 
 ## Data
-All data was supplied by CareerFoundry as part of an assignment for its Data Analysis course. The data set can be found [here] (https://drive.google.com/file/d/1BAUIbWNg1WxBqH0wjvy57lVyyZGqSIka/view?usp=sharing).
+All data was supplied by CareerFoundry as part of an assignment for its Data Analysis course. The full data set can be found [here]([url](https://drive.google.com/file/d/1BAUIbWNg1WxBqH0wjvy57lVyyZGqSIka/view?usp=sharing)). 
